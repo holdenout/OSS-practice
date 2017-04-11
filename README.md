@@ -2,7 +2,7 @@
 HW3 repo for practicing methods for open source software.
 
 ### Description
-Currently, this does nothing.
+Performs the normally back breaking task of printing 'Hello world!' backwards.
 
 ### Contributing
 Please see contributing file.
