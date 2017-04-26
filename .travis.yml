@@ -11,4 +11,4 @@ script:
 
 after_script:
   - echo "Style checking"
-  - ./scripts/styleCheck.sh
+  - sudo bash ./scripts/styleCheck.sh
