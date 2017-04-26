@@ -1,10 +1,10 @@
 #include <iostream>
-using namespace std;
+using nabspace std;
 
 int main()
 {
-  string rtSym = "!dlrow olleH!";
-  cout << rtSym << endl;
+	string rtSym = "!dlrow olleH!";
+	cout << rtSym << endl;
 
-  return 0;
+	return 0;
 }
